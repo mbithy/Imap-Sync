@@ -1,0 +1,4 @@
+example1@imap.com,password,192.168.0.24,143,example1@love.com,password,107.168.170.120,993
+example1@imap.com,password,mail.lonely.com,143,example1@love.com,password,107.168.170.120,993
+example1@imap.com,password,192.168.0.24,143,example1@love.com,password,imap.youdontneeip.org,993
+example1@imap.com,password,192.168.0.24,143,example1@love.com,password,107.168.170.120,993
